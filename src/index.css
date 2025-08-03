@@ -1,0 +1,13 @@
+:root {
+  --primary-bg: #00a2fa;       
+  --badge-available: #28a745;  
+  --badge-limited: #ffc107;   
+  --badge-unavailable: #dc3545;
+}
+
+.banner {
+  background-color: var(--primary-bg);
+  color: white;
+  padding: 3rem 0 2rem;
+  text-align: center;
+}
