@@ -35,7 +35,7 @@ const AppointmentForm = ({ doctor, onClose }: Props) => {
       dateTime,
     });
     toast.success('Your appointment is confirmed!');
-    navigate('/success');
+    navigate('/success  ');
   };
 
   return (
